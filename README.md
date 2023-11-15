@@ -1,7 +1,7 @@
-- Hi there! 👋
-I’m <a href="https://www.linkedin.com/in/alakesh-thakuria-661588200/" rel="nofollow">Alakesh</a>, from <a href="https://en.wikipedia.org/wiki/India" rel="nofollow">🇮🇳 </a> an experienced Application Support Engineer with a passion for ensuring the smooth operation of production-ready applications. With four years in the field, I've honed my skills in troubleshooting, maintaining, and optimizing applications to deliver top-notch user experiences.
--  
--  About Me
+Hi there! 👋
+-I’m <a href="https://www.linkedin.com/in/alakesh-thakuria-661588200/" rel="nofollow">Alakesh</a>, from <a href="https://en.wikipedia.org/wiki/India" rel="nofollow">🇮🇳 </a> an experienced Application Support Engineer with a passion for ensuring the smooth operation of production-ready applications. With four years in the field, I've honed my skills in troubleshooting, maintaining, and optimizing applications to deliver top-notch user experiences.
+  
+About Me
 
 Experience: 4 years in Application Support.
 Passion: I'm deeply passionate about exploring and mastering cutting-edge technologies that enhance the deployment and management of applications.
